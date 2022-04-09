@@ -2,6 +2,7 @@
 [Kodluyoruz](https://www.kodluyoruz.org/) kapsamında açtığım ilk repo
 içerisinde bir adet REAMDE dosyası bir adet de index.html dosyası barındırıyor.
 
+![resim](kodluyoruzilkrepo.png)
 # INSTALLATION
 
 öncelikle projeyi clonelayın. (buraya kendi reponuzdan aldığınız link gelecek)
